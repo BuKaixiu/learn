@@ -1,4 +1,4 @@
 # Learn
 Learning Knowledge
 
-[Clone](https://BuKaixiu.git.io/learn/javaScript/clone/clone.html)
+[Clone](bukaixiu.github.io/learn/javaScript/clone/clone.html)
