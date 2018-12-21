@@ -4,5 +4,5 @@
 
 ### deepClon
 
-[deepClon](https://github.com/BuKaixiu/learn/blob/master/javaScript/clone/clone.html)
+[deepClon](https://bukaixiu.git.io/learn/javaScript/clone/clone.html)
 
